@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+## Captures
+
+<p>
+<img src="captures/captures.png" align = "center" height = "650px">
+</p>
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
