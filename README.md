@@ -5,7 +5,7 @@ A new Flutter project.
 ## Captures
 
 <p>
-<img src="captures/captures.png" align = "center" height = "650px">
+<img src="captures/capture.png" align = "center" height = "650px">
 </p>
 
 
